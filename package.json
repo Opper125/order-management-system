@@ -1,0 +1,15 @@
+{
+    "name": "order-management-system",
+    "version": "1.0.0",
+    "description": "Order Management System for Telegram Premium Shop",
+    "main": "index.js",
+    "dependencies": {
+        "events": "^3.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
